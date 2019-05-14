@@ -2,8 +2,10 @@
 title: "Setup"
 ---
 
+\newline
 ## 1) The Bash Shell
 
+\newline
 ### Mac:
 
 The default shell in all versions of macOS is Bash, so you do not need to install anything. 
@@ -39,7 +41,9 @@ The default shell is usually Bash, but if your machine is set up differently you
 
 
 
+\newline
 ## 2) Git 
+\newline
 
 Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser.
 We will be using this to develop skills on managing your files.
@@ -61,7 +65,9 @@ If Git is not already available on your machine you can try to install it via yo
 
 
 
+\newline
 ## 3) R
+\newline
 
 We will be using R to code an agent-based simulation of social learning. You probably already use R for data analysis - please make sure it is installed and up to date on your laptop. We will use RStudio, so if you don’t please download it. 
 
