@@ -1,0 +1,12 @@
+name: "Your Site's Name"
+output_dir: docs  # necessary for hosting on GitHub; just add it for now
+navbar:  
+  title: "ESLR Workshop 2019"
+  left:  # you can also use 'right'
+    - text: "Home"
+      icon: fa-home  # handy way to use FontAwesome icons in nav!
+      href: index.html  # don't link to the .Rmd file
+    - text: "Setup"
+      href: setup.html
+    - text: "Practical information"
+      href: practical.html
