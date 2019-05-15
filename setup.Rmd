@@ -6,7 +6,7 @@ To participate in the ESLR 2019 workshop, you will need access to the software d
 
 <br/>
 
-## 1) The Bash Shell 
+## **The Bash Shell**
 
 ### Mac:
 
@@ -45,7 +45,7 @@ The default shell is usually Bash, but if your machine is set up differently you
 
 <br/>
 
-## 2) Git 
+## **Git** 
 
 Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser.
 We will be using this to develop skills on managing your files.
@@ -70,7 +70,7 @@ If Git is not already available on your machine you can try to install it via yo
 
 <br/>
 
-## 3) R
+## **R**
 
 
 We will be using R to code an agent-based simulation of social learning. You probably already use R for data analysis - please make sure it is installed and up to date on your laptop. We will use RStudio, so if you don’t please download it. 
