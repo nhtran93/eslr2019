@@ -17,7 +17,8 @@ You access Bash from the Terminal (found in /Applications/Utilities). Add it to 
 
 ### Windows:
 
-https://www.youtube.com/watch?v=339AEqk9c-8
+<a href="https://www.youtube.com/watch?v=339AEqk9c-8" target="_blank"><img src="images/install.png" 
+alt="SWC install Git Bash and SWC Installer on Windows" width="240" height="180" border="10" /></a>
 
 Download the Git for Windows installer.
 Run the installer and follow the steps below:
