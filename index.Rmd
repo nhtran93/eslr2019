@@ -1,13 +1,35 @@
 ---
-title: <h1> <img src="images/eslr.jpg"
-  width= absolute
-  height= absolute
-  style="float:center;">
+title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" />
 ---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+## Day 1
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all new or modified files |
+| `git diff` | Show file differences that haven't been staged |
 
-  
-  
-  
-blablabla
+## Day 2
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all new or modified files |
+| `git diff` | Show file differences that haven't been staged |
+
+## Day 3
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all new or modified files |
+| `git diff` | Show file differences that haven't been staged |
