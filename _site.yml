@@ -14,6 +14,9 @@ navbar:
     - text: "Practical Information"
       href: practical.html
       icon: fa-map
+    - text: "Organizing Committee"
+      icon: fa-users
+      href: us.html  
 output:
   html_document:
     theme: cosmo
