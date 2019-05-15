@@ -27,42 +27,45 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 <br>
 
 
-## Day 1: Wesnesday, 12th June
+## Day 1: Wesnesday, 12th June 
 
 | Time |  |
-| --- | :--- |
-| `9.00h` | **Welcome & Registration** |
+| :--- | :--- |
+| `9.00h` | **Welcome & Registration**  |
 | `9.30h` | **Introduction** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
-| `10.00h` | **Group Work** |
+| `10.00h` | **Group Work**|
 | `10.30h` | **Coffee Break** |
-| `11.00h` | **Keynote** <br> [Heidi Colleran](https://www.shh.mpg.de/person/48693/25522)|
+| `11.00h` |  **Keynote** <br> [Heidi Colleran](https://www.shh.mpg.de/person/48693/25522) |
 | `12.00h` | **Lunch Break** |
 | `13.30h` | **Theory: An agent-based simulation in R** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
-| `15.30h` | **Coffee Break** |
+| `15.30h` | **Coffee Break**|
 | `16.00h` | **Theory: Reflection and discussion** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
 | `17.00h` | **Feedback** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
 | `18.00h` | **Poster Session** |
 
-## Day 2: Thursday, 13th June
+
+
+## Day 2: Thursday, 13th June 
+
 
 | Time |  |
-| --- | :--- |
+| :--- | :--- |
 | `9.30h` | **Reproducible Workflows I** <br> [Bret Beheim]( https://www.eva.mpg.de/ecology/staff/bret_beheim/) |
 | `10.30h` | **Coffee Break** |
 | `11.00h` | **Keynote** <br> [Lucy Aplin](https://www.orn.mpg.de/person/54450/3880844)|
 | `12.00h` | **Lunch Break** |
 | `13.30h` | **Reproducible Workflows II** <br> [Bret Beheim]( https://www.eva.mpg.de/ecology/staff/bret_beheim/) |
-| `15.30h` | Coffee Break|
+| `15.30h` | **Coffee Break**|
 | `16.00h` | **EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics I** <br> [Brendan Barrett](https://www.eva.mpg.de/ecology/staff/brendan_barrett/) |
 | `17.30h` | **Coffee Break** |
 | `18.00h` | **Meet downstairs for dinner at 19:00** |
 | `19.00h` | **Dinner at the [Glashaus](https://www.glashaus-leipzig.de/index.html)** <br> Karl-Tauchnitz-Straße 26 <br> 04107 Leipzig|
 
 
-## Day 3: Friday, 14th June
+## Day 3: Friday, 14th June 
 
 | Time |  |
-| --- | :--- |
+| :--- | :--- |
 | `9.30h` | **EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics II <br>** [Brendan Barrett](https://www.eva.mpg.de/ecology/staff/brendan_barrett/) |
 | `10.30h` | **Coffee Break** |
 | `11.00h` | **Data Analysis I** <br> [Cody Ross](https://www.eva.mpg.de/ecology/staff/cody-ross/index.html) |

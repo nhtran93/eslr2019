@@ -25,3 +25,11 @@ blockquote{
   border: 0;
   border-radius: 5px;
 }
+
+
+
+.left {
+  float: left;
+  text-align: left;
+  margin-left: auto;
+}
