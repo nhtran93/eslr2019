@@ -1,7 +1,32 @@
 ---
-title: "Practical Information"
+title: <img src="images/Map_Ecology2.png" style="position:absolute;top:0px;right:0px;" />
 ---
 
-```{r pressure, echo=FALSE, out.width = '100%'}
-knitr::include_graphics("images/Map_Ecology2.png")
-```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Directions
+
+## 

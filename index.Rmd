@@ -30,48 +30,45 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 
 | Time |  |
 | --- | --- |
-| `9.00h` | Welcome & Registration|
-| `9.30h` | Introduction <br> Richard McElreath |
-| `10.00h` | Group Work|
-| `10.30h` | Coffee Break|
-| `11.00h` | Keynote <br> Heidi Colleran|
-| `12.00h` | Lunch Break|
-| `13.30h` | Theory: An agent-based simulation in R <br> Richard McElreath|
-| `15.30h` | Coffee Break|
-| `16.00h` | Theory: Reflection and discussion <br> Richard McElreath|
-| `17.00h` | Feedback <br> Richard McElreath|
-| `18.00h` | Poster Session|
+| `9.00h` | **Welcome & Registration** |
+| `9.30h` | **Introduction** <br> Richard McElreath |
+| `10.00h` | **Group Work** |
+| `10.30h` | **Coffee Break** |
+| `11.00h` | **Keynote** <br> Heidi Colleran|
+| `12.00h` | **Lunch Break** |
+| `13.30h` | **Theory: An agent-based simulation in R** <br> Richard McElreath |
+| `15.30h` | **Coffee Break** |
+| `16.00h` | **Theory: Reflection and discussion** <br> Richard McElreath |
+| `17.00h` | **Feedback** <br> Richard McElreath |
+| `18.00h` | **Poster Session** |
 
 ## Day 2: Thursday, 13th June
 
 | Time |  |
 | --- | --- |
-| `9.30h` | Reproducible Workflows I <br> Bret Beheim |
-| `10.30h` | Coffee Break |
-| `11.00h` | Keynote <br> Lucy Aplin|
-| `12.00h` | Lunch Break|
-| `13.30h` | Reproducible Workflows II <br> Bret Beheim |
+| `9.30h` | **Reproducible Workflows I** <br> Bret Beheim |
+| `10.30h` | **Coffee Break** |
+| `11.00h` | **Keynote** <br> Lucy Aplin|
+| `12.00h` | **Lunch Break** |
+| `13.30h` | **Reproducible Workflows II** <br> Bret Beheim |
 | `15.30h` | Coffee Break|
-| `16.00h` | EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics I <br> Brendan Barrett |
-| `17.30h` | Coffee Break|
-| `18.00h` | Meet downstairs for dinner at 19:00 |
-| `19.00h` | Dinner at the [Glashaus](https://www.glashaus-leipzig.de/index.html) |
+| `16.00h` | **EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics I** <br> Brendan Barrett |
+| `17.30h` | **Coffee Break** |
+| `18.00h` | **Meet downstairs for dinner at 19:00** |
+| `19.00h` | **Dinner at the [Glashaus](https://www.glashaus-leipzig.de/index.html)** <br> Karl-Tauchnitz-Straße 26 <br> 04107 Leipzig|
 
 
 ## Day 3: Friday, 14th June
 
 | Time |  |
 | --- | --- |
-| `9.30h` | EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics II <br> Brendan Barrett  |
-| `10.30h` | Coffee Break |
-| `11.00h` | Data Analysis I <br> Cody Ross|
-| `12.00h` | Lunch Break|
-| `13.30h` | Data Analysis II <br> Cody Ross| |
-| `15.00h` | Coffee Break|
-| `15.30h` | Annual General Meeting of the ESLR Society |
-
-
-
+| `9.30h` | **EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics II <br>** Brendan Barrett |
+| `10.30h` | **Coffee Break** |
+| `11.00h` | **Data Analysis I** <br> Cody Ross |
+| `12.00h` | **Lunch Break** |
+| `13.30h` | **Data Analysis II** <br> Cody Ross |
+| `15.00h` | **Coffee Break** |
+| `15.30h` | **Annual General Meeting of the ESLR Society** |
 
 
 
