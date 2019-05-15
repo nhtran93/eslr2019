@@ -1,100 +1,50 @@
 ---
 title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" />
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Day 1: Wesnesday, 12th June
 
-| Time | Description |
+| Time |  |
 | --- | --- |
-| `git status` | List all new or modified files |
-| `git diff` | Show file differences that haven't been staged |
+| `9.00h` | Welcome & Registration|
+| `9.30h` | Introduction <br> Richard McElreath |
+| `10.00h` | Group Work|
+| `10.30h` | Coffee Break|
+| `11.00h` | Keynote <br> Heidi Colleran|
+| `12.00h` | Lunch Break|
+| `13.30h` | Theory: An agent-based simulation in R <br> Richard McElreath|
+| `15.30h` | Coffee Break|
+| `16.00h` | Theory: Reflection and discussion <br> Richard McElreath|
+| `17.00h` | Feedback <br> Richard McElreath|
+| `18.00h` | Poster Session|
 
 ## Day 2: Thursday, 13th June
 
-| Command | Description |
+| Time |  |
 | --- | --- |
 | `git status` | List all new or modified files |
 | `git diff` | Show file differences that haven't been staged |
 
 ## Day 3: Friday, Wesnesday, 14th June
 
-| Command | Description |
+| Time |  |
 | --- | --- |
 | `git status` | List all new or modified files |
 | `git diff` | Show file differences that haven't been staged |
