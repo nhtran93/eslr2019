@@ -1,3 +1,7 @@
 ---
 title: "Practical Information"
 ---
+
+```{r pressure, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/Map_Ecology2.png")
+```
