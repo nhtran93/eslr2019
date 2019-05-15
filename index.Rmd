@@ -21,6 +21,10 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Day 1: Wesnesday, 12th June
 
@@ -48,18 +52,23 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 | `12.00h` | Lunch Break|
 | `13.30h` | Reproducible Workflows II <br> Bret Beheim |
 | `15.30h` | Coffee Break|
-| `16.00h` | EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics <br> Brendan Barrett |
+| `16.00h` | EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics I <br> Brendan Barrett |
 | `17.30h` | Coffee Break|
 | `18.00h` | Meet downstairs for dinner at 19:00 |
 | `19.00h` | Dinner at the [Glashaus](https://www.glashaus-leipzig.de/index.html) |
 
 
-## Day 3: Friday, Wesnesday, 14th June
+## Day 3: Friday, 14th June
 
 | Time |  |
 | --- | --- |
-| `git status` | List all new or modified files |
-| `git diff` | Show file differences that haven't been staged |
+| `9.30h` | EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics II <br> Brendan Barrett  |
+| `10.30h` | Coffee Break |
+| `11.00h` | Data Analysis I <br> Cody Ross|
+| `12.00h` | Lunch Break|
+| `13.30h` | Data Analysis II <br> Cody Ross| |
+| `15.00h` | Coffee Break|
+| `15.30h` | Annual General Meeting of the ESLR Society |
 
 
 
