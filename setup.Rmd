@@ -2,16 +2,19 @@
 title: "Setup"
 ---
 
-\newline
+To participate in the ESLR 2019 workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser. 
+
+<br/>
+
 ## 1) The Bash Shell 
 
-\newline
 ### Mac:
 
 The default shell in all versions of macOS is Bash, so you do not need to install anything. 
 You access Bash from the Terminal (found in /Applications/Utilities). Add it to your dock for the workshop, or access by typing “terminal” into the Spotlight. 
 
-\newline
+<br/>
+
 ### Windows:
 
 https://www.youtube.com/watch?v=339AEqk9c-8
@@ -34,55 +37,59 @@ Press [Enter], you should see SUCCESS: Specified value was saved.
 Quit command prompt by typing exit then pressing [Enter]
 This will provide you with both Git and Bash in the Git Bash program.
 
-\newline
+<br/>
+
 ### Linux: 
 
 The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
 
+<br/>
 
-
-\newline
 ## 2) Git 
-\newline
 
 Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser.
 We will be using this to develop skills on managing your files.
 You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. Create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.
 
-\newline
+<br/>
+
 ### Mac: 
 Video Tutorial
 For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your /Applicationsfolder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available here.
 
-\newline
+<br/>
+
 ### Windows:
 Git should be installed on your computer as part of your Bash install (described above).
 
-\newline
+<br/>
+
 ### Linux:
 
 If Git is not already available on your machine you can try to install it via your distro's package manager. For Debian/Ubuntu run sudo apt-get install git and for Fedora runsudo dnf install git.
 
+<br/>
 
-
-\newline
 ## 3) R
-\newline
+
 
 We will be using R to code an agent-based simulation of social learning. You probably already use R for data analysis - please make sure it is installed and up to date on your laptop. We will use RStudio, so if you don’t please download it. 
 
-\newline
+<br/>
+
 ### Windows:
 
 Video Tutorial
 Install R by downloading and running this .exe file from CRAN. Also, please install the RStudio IDE. Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages
 
-\newline
+<br/>
+
 ### Mac:
 Video Tutorial
 Install R by downloading and running this .pkg file from CRAN. Also, please install the RStudio IDE
 
-\newline
+<br/>
+
 ### Ubuntu:
 You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run sudo apt-get install r-base and for Fedora run sudo dnf install R). Also, please install the RStudio IDE
 If you have trouble installing any of these, we will also hold a drop-in session the afternoon before the workshop begins (June 11), so we can try to help with any of issues. If you think you will be unable to bring a laptop with the relevant software installed to the workshop, please let us know in advance, so we can work out a solution! 

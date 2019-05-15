@@ -12,22 +12,30 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## Day 1
+## Day 1: Wesnesday, 12th June
 
 | Command | Description |
 | --- | --- |
 | `git status` | List all new or modified files |
 | `git diff` | Show file differences that haven't been staged |
 
-## Day 2
+## Day 2: Thursday, 13th June
 
 | Command | Description |
 | --- | --- |
 | `git status` | List all new or modified files |
 | `git diff` | Show file differences that haven't been staged |
 
-## Day 3
+## Day 3: Friday, Wesnesday, 14th June
 
 | Command | Description |
 | --- | --- |
