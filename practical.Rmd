@@ -29,7 +29,7 @@ When you arrive at Leipzig main station by train (IC, EC, IR) take one of these 
 
 Alternatively, you may go to the institute by tram. If you choose this option you need to exit Leipzig railway station and will then arrive at Willy-Brandt-Platz. Buy a ticket "Einzelfahrkarte Leipzig" at one of the ticket counters or automats and stamp it right after boarding the tram. Take tram number 16 to the destination "Lößnig" (or "Lössnig") and get off at the stop called "Deutsche Nationalbibliothek". Turn left, cross the street Semmelweissstraße, and you will arrive at Deutscher Platz. The Institute, a modern building with a glass facade, is at your right. 
 
-For more information on how to get to the institute from the airport or by car, please check our detailled [directions](docs/Anfahrtsbeschreibung_Plan_englisch.pdf).
+For more information on how to get to the institute from the airport or by car, please check our detailled [directions](https://www.eva.mpg.de/fileadmin/content_files/institute/pdf/Anfahrtsbeschreibung_Plan_englisch.pdf).
 
 ## **Internet access for guests and visitors** 
 For guests and visitors we provide two ways to get connected to the internet. First is eduroam and the second way is a voucher based network.
