@@ -2,5 +2,7 @@
 title: "ESLR Workshop 2019"
 
 ---
+<img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" />
 
+\newline
 Welcome to my site!

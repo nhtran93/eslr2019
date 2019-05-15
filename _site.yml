@@ -1,17 +1,23 @@
 name: "ESLR Workshop 2019"
 output_dir: docs  # necessary for hosting on GitHub; just add it for now
 navbar:  
+  logo:
+      image: Map_Ecology2.png
   title: "ESLR Workshop 2019"
   left:  # you can also use 'right'
     - text: "Home"
       icon: fa-home  # handy way to use FontAwesome icons in nav!
       href: index.html  # don't link to the .Rmd file
     - text: "Setup"
+      icon: fa-laptop
       href: setup.html
     - text: "Practical Information"
       href: practical.html
+      icon: fa-map
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
     highlight: textmate
+    include:
+      after_body: footer.html
     css: mystyle.css

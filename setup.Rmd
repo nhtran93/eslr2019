@@ -3,7 +3,7 @@ title: "Setup"
 ---
 
 \newline
-## 1) The Bash Shell
+## 1) The Bash Shell 
 
 \newline
 ### Mac:
