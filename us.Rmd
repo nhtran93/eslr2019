@@ -1,16 +1,27 @@
 ---
 title: <img src="images/Map_Ecology2.png" style="position:center;top:0px;right:0px;" />
 ---
-<center>
-[Dominik Deffner](https://www.eva.mpg.de/ecology/staff/dominik-deffner/index.html)
 
-[Han Tran](https://www.eva.mpg.de/ecology/staff/han-tran/index.html)
+<left>
+ <a href="https://www.eva.mpg.de/ecology/staff/dominik-deffner/index.html">
+  <img src="images/dominik.png" alt="dominik" style="width:500px;height:500px;border:0;">
+</a> 
+
+**Dominik Deffner**
+
+<br>
+
+<left>
+ <a href="https://www.eva.mpg.de/ecology/staff/han-tran/index.html">
+  <img src="images/dominik.png" alt="dominik" style="width:42px;height:42px;border:0;">
+</a> 
+
+**Han Tran**
 
 [Natalia Federova](https://www.eva.mpg.de/ecology/staff/natalia-fedorova/index.html)
 
 [Riana Minocher](https://www.eva.mpg.de/ecology/staff/riana-minocher/index.html)
 
 [Arianna Dalzero](https://www.eva.mpg.de/ecology/staff/arianna-dalzero/index.html)
-</center>
-
+</left>
 
