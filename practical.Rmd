@@ -16,6 +16,13 @@ phone: +49 (341) 3550 - 315
 </center>
 
 <br>
+<center>
+If you have any further questions regarding the workshop, please email us at eslr2019@eva.mpg.de
+</center>
+<br>
+
+
+
 
 ## **Directions**
 ```{r pressure, echo=FALSE, out.width = '50%'}
