@@ -1,5 +1,5 @@
 ---
-title: Practical Information
+title: <img src="images/Map_Ecology2.png" style="position:center;top:0px;right:0px;" />
 ---
 <br>
 <br>
@@ -27,11 +27,14 @@ phone: +49 (341) 3550 - 315
 
 
 ## Directions
-
+```{r pressure, echo=FALSE, out.width = '50%'}
+knitr::include_graphics("images/mpi_location.jpg")
+```
 
 ### By train/ railway/ tram
 When you arrive at Leipzig main station by train (IC, EC, IR) take one of these municipal railway (S-Bahn) lines: S1 direction Riesa, S2 direction Markkleeberg-Gaschwitz, S3 direction Stötteritz, or line S5/S5X direction Zwickau. These trains leave Leipzig railway station at regular intervals. Do not forget to buy a ticket "Einzelfahrkarte Leipzig" at one of the automats and stamp it before boarding the S-Bahn. Get off the train at the stop "Leipzig MDR", then follow the street Semmelweissstraße, and turn right at the intersection with the street Straße des 18. Oktober. At the Deutscher Platz the institute building is located at your right-hand side.
 
 Alternatively, you may go to the institute by tram. If you choose this option you need to exit Leipzig railway station and will then arrive at Willy-Brandt-Platz. Buy a ticket "Einzelfahrkarte Leipzig" at one of the ticket counters or automats and stamp it right after boarding the tram. Take tram number 16 to the destination "Lößnig" (or "Lössnig") and get off at the stop called "Deutsche Nationalbibliothek". Turn left, cross the street Semmelweissstraße, and you will arrive at Deutscher Platz. The Institute, a modern building with a glass facade, is at your right. 
+
 
 
