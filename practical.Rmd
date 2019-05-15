@@ -1,5 +1,5 @@
 ---
-title: <img src="images/Map_Ecology2.png" style="position:center;top:0px;right:0px;" />
+title: Practical Information
 ---
 <br>
 <br>
@@ -12,12 +12,7 @@ title: <img src="images/Map_Ecology2.png" style="position:center;top:0px;right:0
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 Max Planck Institute for Evolutionary Anthropology
@@ -31,7 +26,7 @@ Deutscher Platz 6
 phone: +49 (341) 3550 - 315
 
 
-## **Directions**
+## Directions
 
 ```{r pressure, echo=FALSE, out.width = '50%'}
 knitr::include_graphics("images/mpi_location.jpg")
