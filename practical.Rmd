@@ -1,9 +1,6 @@
 ---
 title: <img src="images/Map_Ecology2.png" style="position:center;top:0px;right:0px;" />
 ---
-<br>
-<br>
-
 <center>
 
 Max Planck Institute for Evolutionary Anthropology
@@ -34,6 +31,18 @@ For more information on how to get to the institute from the airport or by car, 
 ## **Internet access for guests and visitors** 
 For guests and visitors we provide two ways to get connected to the internet. First is eduroam and the second way is a voucher based network.
 You may access the internet, e-mail and special printers (voucher only) for guests. Everyone have received one unique voucher in their registration bag. For more information on how to set up the wifi connection using your voucher, please read the [information](https://www.eva.mpg.de/service/it/network-for-guests.html) carefully.
+
+**Follow us on twitter @ESLR2019**
+
+## **Food and Beverage**
+
+Coffee breaks and lunches will take place in the main hall on the ground floor. 
+
+
+
+
+
+
 
 
 
