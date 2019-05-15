@@ -3,6 +3,25 @@ title: <img src="images/Map_Ecology2.png" style="position:center;top:0px;right:0
 ---
 
 <center>
+
+Max Planck Institute for Evolutionary Anthropology
+
+Department of Human Behavior, Ecology and Culture
+
+Deutscher Platz 6
+
+04103 Leipzig
+
+phone: +49 (341) 3550 - 315
+
+<br>
+If you have any further questions regarding the workshop, please email us at eslr2019@eva.mpg.de or find us on twitter [ESLR2019](https://twitter.com/ESLR2019).
+
+</center>
+
+<br>
+
+<center>
  <a href="https://www.eva.mpg.de/ecology/staff/dominik-deffner/index.html">
   <img src="images/dominik.png" alt="dominik" style="width:200px;height:200px;border:0;">
 </a> 
