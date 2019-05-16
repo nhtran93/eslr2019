@@ -1,5 +1,5 @@
 ---
-title: <img src="images/eslr.png" style="position:absolute;top:0px;right:0px;" />
+title: <img src="images/eslr.png" style="position:center;top:0px;right:0px;" />
 ---
 
 <br>
