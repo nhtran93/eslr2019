@@ -78,6 +78,3 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 | `13.30h` | **Data Analysis II** <br> [Cody Ross](https://www.eva.mpg.de/ecology/staff/cody-ross/index.html) |
 | `15.00h` | **Coffee Break** |
 | `15.30h` | **Annual General Meeting of the ESLR Society** |
-
-
-
