@@ -2,7 +2,11 @@
 title: "Setup"
 ---
 
-To participate in the ESLR 2019 workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser. 
+To participate in the ESLR 2019 workshop, you will need a working laptop with a Mac, Linux or Windows operating system (no tablet/Chromebook, etc.), that you have administrative privileges on.
+
+
+You will need to install or check that you have installed the following software packages:
+ 
 
 <br/>
 
@@ -11,63 +15,69 @@ To participate in the ESLR 2019 workshop, you will need access to the software d
 ### Mac:
 
 The default shell in all versions of macOS is Bash, so you do not need to install anything. 
-You access Bash from the Terminal (found in /Applications/Utilities). Add it to your dock for the workshop, or access by typing “terminal” into the Spotlight. 
+You access Bash from the Terminal (found in `/Applications/Utilities`). Add it to your dock for the workshop, or access by typing “terminal” into the Spotlight. 
 
 <br/>
 
 ### Windows:
 
-<a href="https://www.youtube.com/watch?v=339AEqk9c-8" target="_blank"><img src="images/install.png" 
-alt="SWC install Git Bash and SWC Installer on Windows" width="240" height="180" border="10" /></a>
+[Video Tutorial](https://www.youtube.com/watch?v=339AEqk9c-8)
 
-Download the Git for Windows installer.
-Run the installer and follow the steps below:
-Click on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.
-Select “Use the nano editor by default” and click on “Next”.
-Keep "Use Git from the Windows Command Prompt" selected and click on "Next". If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
-Click on "Next".
-Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
-Select "Use Windows' default console window" and click on "Next".
-Click on "Install".
-Click on "Finish".
-If your "HOME" environment variable is not set (or you don't know what this is):
-Open command prompt (Open Start Menu then type cmd and press [Enter])
-Type the following line into the command prompt window exactly as shown:
-setx HOME "%USERPROFILE%"
-Press [Enter], you should see SUCCESS: Specified value was saved.
-Quit command prompt by typing exit then pressing [Enter]
+1. Download the Git for Windows [installer](https://gitforwindows.org/).
+2. Run the installer and follow the steps below:
+  1. Click on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.
+  2. Select “Use the nano editor by default” and click on “Next”.
+  3. Keep "Use Git from the Windows Command Prompt" selected and click on "Next". If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
+  4. Click on "Next".
+  5. Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
+  6. Select "Use Windows' default console window" and click on "Next".
+  7. Click on "Install".
+  8. Click on "Finish".
+3. If your "HOME" environment variable is not set (or you don't know what this is):
+  1. Open command prompt (Open Start Menu then type `cmd` and press [Enter])
+  2. Type the following line into the command prompt window exactly as shown:
+     `setx HOME "%USERPROFILE%"
+  3. Press [Enter], you should see `SUCCESS: Specified value was saved.`
+  4. Quit command prompt by typing exit then pressing [Enter]
 This will provide you with both Git and Bash in the Git Bash program.
 
 <br/>
 
 ### Linux: 
 
-The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
+The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing `bash. There is no need to install anything.
 
 <br/>
 
 ## **Git** 
 
-Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser.
+Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on (github.com)[https://github.com/]. You will need a supported web browser.
+
 We will be using this to develop skills on managing your files.
-You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. Create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.
+
+You will need an account at (github.com)[https://github.com/] for parts of the Git lesson. Basic GitHub accounts are free. Create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these (instructions for keeping your email address private provided at GitHub)[https://help.github.com/en/articles/setting-your-commit-email-address-on-github].
 
 <br/>
 
 ### Mac: 
-Video Tutorial
-For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your /Applicationsfolder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available here.
+
+[Video Tutorial](https://www.youtube.com/watch?v=9LQhwETCdwY)
+
+For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent "mavericks" installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your `/Applications` folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" (available here)[http://sourceforge.net/projects/git-osx-installer/files/].
 
 <br/>
 
 ### Windows:
-Git should be installed on your computer as part of your Bash install (described above).
+Git should be installed on your computer as part of your Bash install [described above](http://sourceforge.net/projects/git-osx-installer/files/).
 
 <br/>
 
 ### Linux:
 
 If Git is not already available on your machine you can try to install it via your distro's package manager. For Debian/Ubuntu run sudo apt-get install git and for Fedora runsudo dnf install git.
+
+If Git is not already available on your machine you can try to install it via your distro's package manager. For `Debian/Ubuntu` run `sudo apt-get install git` and for Fedora run `sudo dnf install git.
+
 
 <br/>
 
@@ -80,17 +90,25 @@ We will be using R to code an agent-based simulation of social learning. You pro
 
 ### Windows:
 
-Video Tutorial
-Install R by downloading and running this .exe file from CRAN. Also, please install the RStudio IDE. Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages
+[Video Tutorial](https://www.youtube.com/watch?v=q0PjTAylwoU)
+
+Install R by downloading and running [this .exe file from CRAN](https://cran.r-project.org/bin/windows/base/release.htm). Also, please install the RStudio IDE. Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages
 
 <br/>
 
 ### Mac:
-Video Tutorial
-Install R by downloading and running this .pkg file from CRAN. Also, please install the RStudio IDE
+[Video Tutorial](https://www.youtube.com/watch?v=5-ly3kyxwEg)
+Install R by downloading and running this `.pkg` file from `CRAN`. Also, please install the RStudio IDE
 
 <br/>
 
 ### Ubuntu:
-You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run sudo apt-get install r-base and for Fedora run sudo dnf install R). Also, please install the RStudio IDE
-If you have trouble installing any of these, we will also hold a drop-in session the afternoon before the workshop begins (June 11), so we can try to help with any of issues. If you think you will be unable to bring a laptop with the relevant software installed to the workshop, please let us know in advance, so we can work out a solution! 
+You can download the binary files for your distribution from `CRAN`. Or you can use your package manager (e.g. for Debian/Ubuntu run `sudo apt-get install` r-base and for Fedora `run sudo dnf install R`). Also, please install the RStudio IDE
+
+<br/>
+
+**If you have trouble installing any of these, we will also hold a drop-in session the afternoon before the workshop begins (June 11), so we can try to help with any of issues. If you think you will be unable to bring a laptop with the relevant software installed to the workshop, please let us know in advance, so we can work out a solution!** 
+
+
+
+
