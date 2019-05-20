@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -73,9 +72,7 @@ h6 {
 
 <link rel="stylesheet" href="mystyle.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -100,6 +97,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -114,7 +114,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -134,6 +133,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -155,19 +191,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -229,45 +331,65 @@ $(document).ready(function () {
 </div>
 
 
-<p>To participate in the ESLR 2019 workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser.</p>
+<p>To participate in the ESLR 2019 workshop, you will need a working laptop with a Mac, Linux or Windows operating system (no tablet/Chromebook, etc.), that you have administrative privileges on.</p>
+<p>You will need to install or check that you have installed the following software packages:</p>
 <p><br/></p>
 <div id="the-bash-shell" class="section level2">
 <h2><strong>The Bash Shell</strong></h2>
 <div id="mac" class="section level3">
 <h3>Mac:</h3>
-<p>The default shell in all versions of macOS is Bash, so you do not need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). Add it to your dock for the workshop, or access by typing “terminal” into the Spotlight.</p>
+<p>The default shell in all versions of macOS is Bash, so you do not need to install anything. You access Bash from the Terminal (found in <code>/Applications/Utilities</code>). Add it to your dock for the workshop, or access by typing “terminal” into the Spotlight.</p>
 <p><br/></p>
 </div>
 <div id="windows" class="section level3">
 <h3>Windows:</h3>
-<p><a href="https://www.youtube.com/watch?v=339AEqk9c-8" target="_blank"><img src="images/install.png" 
-alt="SWC install Git Bash and SWC Installer on Windows" width="240" height="180" border="10" /></a></p>
-<p>Download the Git for Windows installer. Run the installer and follow the steps below: Click on “Next” four times (two times if you’ve previously installed Git). You don’t need to change anything in the Information, location, components, and start menu screens. Select “Use the nano editor by default” and click on “Next”. Keep “Use Git from the Windows Command Prompt” selected and click on “Next”. If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option. Click on “Next”. Keep “Checkout Windows-style, commit Unix-style line endings” selected and click on “Next”. Select “Use Windows’ default console window” and click on “Next”. Click on “Install”. Click on “Finish”. If your “HOME” environment variable is not set (or you don’t know what this is): Open command prompt (Open Start Menu then type cmd and press [Enter]) Type the following line into the command prompt window exactly as shown: setx HOME “%USERPROFILE%” Press [Enter], you should see SUCCESS: Specified value was saved. Quit command prompt by typing exit then pressing [Enter] This will provide you with both Git and Bash in the Git Bash program.</p>
+<p><a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a></p>
+<ol style="list-style-type: decimal">
+<li>Download the Git for Windows <a href="https://gitforwindows.org/">installer</a>.</li>
+<li>Run the installer and follow the steps below:</li>
+<li>Click on “Next” four times (two times if you’ve previously installed Git). You don’t need to change anything in the Information, location, components, and start menu screens.</li>
+<li>Select “Use the nano editor by default” and click on “Next”.</li>
+<li>Keep “Use Git from the Windows Command Prompt” selected and click on “Next”. If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.</li>
+<li>Click on “Next”.</li>
+<li>Keep “Checkout Windows-style, commit Unix-style line endings” selected and click on “Next”.</li>
+<li>Select “Use Windows’ default console window” and click on “Next”.</li>
+<li>Click on “Install”.</li>
+<li>Click on “Finish”.</li>
+<li>If your “HOME” environment variable is not set (or you don’t know what this is):</li>
+<li>Open command prompt (Open Start Menu then type <code>cmd</code> and press [Enter])</li>
+<li>Type the following line into the command prompt window exactly as shown: `setx HOME “%USERPROFILE%”</li>
+<li>Press [Enter], you should see <code>SUCCESS: Specified value was saved.</code></li>
+<li>Quit command prompt by typing exit then pressing [Enter] This will provide you with both Git and Bash in the Git Bash program.</li>
+</ol>
 <p><br/></p>
 </div>
 <div id="linux" class="section level3">
 <h3>Linux:</h3>
-<p>The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.</p>
+<p>The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing `bash. There is no need to install anything.</p>
 <p><br/></p>
 </div>
 </div>
 <div id="git" class="section level2">
 <h2><strong>Git</strong></h2>
-<p>Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on github.com. You will need a supported web browser. We will be using this to develop skills on managing your files. You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. Create a GitHub account if you don’t have one already. Please consider what personal information you’d like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.</p>
+<p>Git is a version control system that lets you track changes to files and has options for easily updating a shared or public version of your code on (github.com)[<a href="https://github.com/" class="uri">https://github.com/</a>]. You will need a supported web browser.</p>
+<p>We will be using this to develop skills on managing your files.</p>
+<p>You will need an account at (github.com)[<a href="https://github.com/" class="uri">https://github.com/</a>] for parts of the Git lesson. Basic GitHub accounts are free. Create a GitHub account if you don’t have one already. Please consider what personal information you’d like to reveal. For example, you may want to review these (instructions for keeping your email address private provided at GitHub)[<a href="https://help.github.com/en/articles/setting-your-commit-email-address-on-github" class="uri">https://help.github.com/en/articles/setting-your-commit-email-address-on-github</a>].</p>
 <p><br/></p>
 <div id="mac-1" class="section level3">
 <h3>Mac:</h3>
-<p>Video Tutorial For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent “mavericks” installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your /Applicationsfolder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled “snow-leopard” available here.</p>
+<p><a href="https://www.youtube.com/watch?v=9LQhwETCdwY">Video Tutorial</a></p>
+<p>For OS X 10.9 and higher, install Git for Mac by downloading and running the most recent “mavericks” installer from this list. Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your <code>/Applications</code> folder, as Git is a command line program. For older versions of OS X (10.5-10.8) use the most recent available installer labelled “snow-leopard” (available here)[<a href="http://sourceforge.net/projects/git-osx-installer/files/" class="uri">http://sourceforge.net/projects/git-osx-installer/files/</a>].</p>
 <p><br/></p>
 </div>
 <div id="windows-1" class="section level3">
 <h3>Windows:</h3>
-<p>Git should be installed on your computer as part of your Bash install (described above).</p>
+<p>Git should be installed on your computer as part of your Bash install <a href="http://sourceforge.net/projects/git-osx-installer/files/">described above</a>.</p>
 <p><br/></p>
 </div>
 <div id="linux-1" class="section level3">
 <h3>Linux:</h3>
 <p>If Git is not already available on your machine you can try to install it via your distro’s package manager. For Debian/Ubuntu run sudo apt-get install git and for Fedora runsudo dnf install git.</p>
+<p>If Git is not already available on your machine you can try to install it via your distro’s package manager. For <code>Debian/Ubuntu</code> run <code>sudo apt-get install git</code> and for Fedora run `sudo dnf install git.</p>
 <p><br/></p>
 </div>
 </div>
@@ -277,17 +399,20 @@ alt="SWC install Git Bash and SWC Installer on Windows" width="240" height="180"
 <p><br/></p>
 <div id="windows-2" class="section level3">
 <h3>Windows:</h3>
-<p>Video Tutorial Install R by downloading and running this .exe file from CRAN. Also, please install the RStudio IDE. Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select “Run as administrator” instead of double-clicking). Otherwise problems may occur later, for example when installing R packages</p>
+<p><a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a></p>
+<p>Install R by downloading and running <a href="https://cran.r-project.org/bin/windows/base/release.htm">this .exe file from CRAN</a>. Also, please install the RStudio IDE. Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select “Run as administrator” instead of double-clicking). Otherwise problems may occur later, for example when installing R packages</p>
 <p><br/></p>
 </div>
 <div id="mac-2" class="section level3">
 <h3>Mac:</h3>
-<p>Video Tutorial Install R by downloading and running this .pkg file from CRAN. Also, please install the RStudio IDE</p>
+<p><a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial</a> Install R by downloading and running this <code>.pkg</code> file from <code>CRAN</code>. Also, please install the RStudio IDE</p>
 <p><br/></p>
 </div>
 <div id="ubuntu" class="section level3">
 <h3>Ubuntu:</h3>
-<p>You can download the binary files for your distribution from CRAN. Or you can use your package manager (e.g. for Debian/Ubuntu run sudo apt-get install r-base and for Fedora run sudo dnf install R). Also, please install the RStudio IDE If you have trouble installing any of these, we will also hold a drop-in session the afternoon before the workshop begins (June 11), so we can try to help with any of issues. If you think you will be unable to bring a laptop with the relevant software installed to the workshop, please let us know in advance, so we can work out a solution!</p>
+<p>You can download the binary files for your distribution from <code>CRAN</code>. Or you can use your package manager (e.g. for Debian/Ubuntu run <code>sudo apt-get install</code> r-base and for Fedora <code>run sudo dnf install R</code>). Also, please install the RStudio IDE</p>
+<p><br/></p>
+<p><strong>If you have trouble installing any of these, we will also hold a drop-in session the afternoon before the workshop begins (June 11), so we can try to help with any of issues. If you think you will be unable to bring a laptop with the relevant software installed to the workshop, please let us know in advance, so we can work out a solution!</strong></p>
 </div>
 </div>
 

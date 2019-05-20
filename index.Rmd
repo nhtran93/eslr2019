@@ -59,7 +59,7 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 | :--- | :--- |
 | `9.30h` | **EWA models and observational data: Linking individual variation in learning strategies to population-level cultural dynamics II <br>** [Brendan Barrett](https://www.eva.mpg.de/ecology/staff/brendan_barrett/) |
 | `10.30h` | **Coffee Break** |
-| `11.00h` | **Basic causal inference** <br> [Cody Ross](https://www.eva.mpg.de/ecology/staff/cody-ross/index.html) |
+| `11.00h` | **Basic causal inference** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
 | `12.00h` | **Lunch Break** |
 | `13.30h` | **More causal inference** <br> [Cody Ross](https://www.eva.mpg.de/ecology/staff/cody-ross/index.html) |
 | `15.00h` | **Coffee Break** |
