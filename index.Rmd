@@ -23,8 +23,7 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 | Time |  |
 | :--- | :--- |
 | `9.00h` | **Welcome & Registration**  |
-| `9.30h` | **Introduction** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
-| `10.00h` | **Group Work**|
+| `9.30h` | **Icebreaker**
 | `10.30h` | **Coffee Break** |
 | `11.00h` |  **Keynote** <br> [Heidi Colleran](https://www.shh.mpg.de/person/48693/25522) |
 | `12.00h` | **Lunch Break** |
