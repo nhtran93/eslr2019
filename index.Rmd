@@ -38,7 +38,7 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 | `13.30h` | **Constructing theory** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
 | `15.30h` | **Coffee Break**|
 | `16.00h` | **Generating predictions from a principled model** <br> [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/index.html) |
-| `18.00h` | **Poster Session** <br> [Download Abstracts Here](docs/Abstracts_ESLR2019.pdf) |
+| `18.00h` | **Poster Session** <br> [Download Abstracts Here](Abstracts_ESLR2019.pdf) |
 
 
 ## Day 2: Thursday, 13th June 
