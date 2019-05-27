@@ -48,7 +48,7 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 | :--- | :--- |
 | `9.30h` | **Reproducible Workflows I** <br> [Bret Beheim]( https://www.eva.mpg.de/ecology/staff/bret_beheim/) |
 | `10.30h` | **Coffee Break** |
-| `11.00h` | **Keynote** <br> [Lucy Aplin](https://www.orn.mpg.de/person/54450/3880844)|
+| `11.00h` | **Studying the spread of innovation in birds: data to models and back again** <br> [Lucy Aplin](https://www.orn.mpg.de/person/54450/3880844)|
 | `12.00h` | **Lunch Break** |
 | `13.30h` | **Reproducible Workflows II** <br> [Bret Beheim]( https://www.eva.mpg.de/ecology/staff/bret_beheim/) |
 | `15.30h` | **Coffee Break**|
