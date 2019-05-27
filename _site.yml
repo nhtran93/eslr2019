@@ -22,5 +22,5 @@ output:
     theme: cosmo
     highlight: textmate
     include:
-      after_body: footer.html
+      after_body: docs/footer.html
     css: mystyle.css
