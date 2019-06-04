@@ -30,7 +30,8 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 
 | Time |  |
 | :--- | :--- |
-| `9.00h` | **Welcome & Registration**  |
+| `8.30h` | **Registration**  |
+| `9.00h` | **Welcome**  |
 | `9.30h` | **Icebreaker**
 | `10.30h` | **Coffee Break** |
 | `11.00h` |  **Demographic Transition and the Cultural Evolution of Reproduction** <br> [Heidi Colleran](https://www.shh.mpg.de/person/48693/25522) |
