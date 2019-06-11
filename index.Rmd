@@ -27,6 +27,9 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 <br>
 
 
+<center>**All the data and code can be found here: https://github.com/eslrworkshop/resources-2019**</center>
+<br>
+
 ## Day 1: Wesnesday, 12th June 
 
 | Time |  |
@@ -71,3 +74,9 @@ title: <img src="images/eslr.jpg" style="position:absolute;top:0px;right:0px;" /
 | `13.30h` | **More causal inference** <br> [Cody Ross](https://www.eva.mpg.de/ecology/staff/cody-ross/index.html) |
 | `15.00h` | **Coffee Break** |
 | `15.30h` | **Annual General Meeting of the ESLR Society** |
+
+<br>
+<br>
+<center>**All the data and code can be found here: https://github.com/eslrworkshop/resources-2019**</center>
+<br>
+<br>
